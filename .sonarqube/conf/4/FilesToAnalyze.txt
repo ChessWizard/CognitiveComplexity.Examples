@@ -1,0 +1,10 @@
+﻿C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\Controllers\Common\BaseController.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\Controllers\UsersController.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\Program.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\obj\Debug\net7.0\CognitiveComplexity.Examples.GlobalUsings.g.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\obj\Debug\net7.0\CognitiveComplexity.Examples.AssemblyInfo.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\obj\Debug\net7.0\CognitiveComplexity.Examples.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\appsettings.Development.json
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\appsettings.json
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\CognitiveComplexity.Examples\Properties\launchSettings.json

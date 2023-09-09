@@ -1,0 +1,14 @@
+﻿C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Context\CognitiveComplexityDbContext.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230906214412_mig-1.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230906214412_mig-1.Designer.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230909103026_mig-2.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230909103026_mig-2.Designer.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230909103403_mig-3.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230909103403_mig-3.Designer.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230909104029_mig-4.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\20230909104029_mig-4.Designer.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Migrations\CognitiveComplexityDbContextModelSnapshot.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Repositories\UserRepository.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Repositories\UserRoleRepository.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\Seeds\RoleSeeds.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Data\UnitofWork\UnitofWork.cs

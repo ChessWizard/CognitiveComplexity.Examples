@@ -1,0 +1,15 @@
+﻿C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Dto\RoleDto.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\Common\AuditEntity.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\Common\BaseEntity.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\Common\Interfaces\IAuditEntity(T).cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\Common\Interfaces\IAuditEntity.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\Common\Interfaces\IEntity.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\Common\Interfaces\ISoftDeleteEntity.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\Role.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\User.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Entities\UserRole.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Enums\AccountType.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Enums\RoleType.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Repositories\IUserRepository.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\Repositories\IUserRoleRepository.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Core\UnitofWork\IUnitofWork.cs

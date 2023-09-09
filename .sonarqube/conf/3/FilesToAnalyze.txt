@@ -1,0 +1,5 @@
+﻿C:\Users\chess\source\repos\CognitiveComplexity.Examples\Service\Common\PasswordGenerator.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Service\CQRS\Commands\RegisterUserResolved\RegisterUserResolvedCommand.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Service\CQRS\Commands\RegisterUserResolved\RegisterUserResolvedCommandHandler.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Service\CQRS\Commands\RegisterUser\RegisterUserComplexCommand.cs
+C:\Users\chess\source\repos\CognitiveComplexity.Examples\Service\CQRS\Commands\RegisterUser\RegisterUserComplexCommandHandler.cs
